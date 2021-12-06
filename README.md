@@ -1,4 +1,4 @@
-<h1>Ola meu nome é Renan Brito 🚀🚀🚀</h1>
+<h2>Ola, meu nome é Renan Brito 🚀🚀🚀</h2>
 
 <div align="center">
   <a href="https://github.com/RenanBRrs">
