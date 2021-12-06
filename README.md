@@ -17,7 +17,7 @@
   <img align="right" alt="Renan-pic" height="200"  src="https://criticalhits.com.br/wp-content/uploads/2020/04/goku-smile.jpg?width=676&height=676">
 </div>
  
-  /**\
+<h6>felicidade 😋</h6>
   
  <div> 
   <a href="https://t.me/renansbrito" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
@@ -29,3 +29,4 @@
   ![Snake animation](https://github.com/RenanBRrs/RenanBRrs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  <h6 > 01001111 01101100 01100001 00101100 00100000 01100100 01100101 00100000 01110101 01101101 00100000 01100011 01101000 01100001 01101110 01100011 01100101 00100000 01100001 00100000 01110001 01110101 01100101 01101101 00100000 01110001 01110101 01100101 01110010 00100000 01100011 01101111 01100100 01100001 01110010 00101110  </h6>
