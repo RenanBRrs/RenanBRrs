@@ -17,7 +17,7 @@
   <img align="right" alt="Renan-pic" height="200"  src="https://criticalhits.com.br/wp-content/uploads/2020/04/goku-smile.jpg?width=676&height=676">
 </div>
  
-<h6>felicidade 😋</h6>
+<h6>Redes</h6>
   
  <div> 
   <a href="https://t.me/renansbrito" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
